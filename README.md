@@ -14,3 +14,14 @@ You can use your own information, or you can make a complety fake biography, too
 5. Add at least one `<img>`, anywhere.
 6. Add at least one ordered list `<ol>`, anywhere.
 7. Add at least one unordered list `<ul>`, anywhere.
+
+### Useful HTML tags
+|You can use:|
+|---|
+| `<h1>`, `<h2>`, `<h3>`, etc|
+|`<p>`|
+|`<img>`|
+|`<hr>`|
+|`<ul>`|
+|`<ol>`|
+|`<li>` (inside a list)|
