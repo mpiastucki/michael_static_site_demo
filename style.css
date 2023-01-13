@@ -51,12 +51,6 @@ li {
     color: #fff;
 }
 
-hr {
-    color: #fff;
-    width: auto;
-    height: 20px;
-}
-
 a:visited, a:link {
     color: #fff;
     text-decoration: underline;
