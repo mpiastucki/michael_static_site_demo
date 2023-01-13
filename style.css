@@ -25,6 +25,11 @@ li {
     margin-bottom: 1em;
 }
 
+hr {
+    margin-left: 0;
+    margin-right: 0;
+    width: 75%;
+}
 
 #root {
     display: grid;
